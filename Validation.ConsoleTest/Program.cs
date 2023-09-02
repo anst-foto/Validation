@@ -15,6 +15,7 @@ PrintValid(numbers, s => s.Validation(regexp));
 PrintValid(str, s => s.Validation(regexp));
 
 PrintValid(numbers, str.Validation);
+PrintValid(numbers, numbers.Validation);
 return;
 
 void PrintValid(string str, Predicate<string> predicate)
