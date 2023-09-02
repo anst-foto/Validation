@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Validation", "Validation\Validation.csproj", "{B745153B-D5C7-4D39-AE40-CDEE5D4B22C9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Validation.ConsoleTest", "Validation.ConsoleTest\Validation.ConsoleTest.csproj", "{49B076D3-4D9D-481E-A19E-23DBC39685CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{B745153B-D5C7-4D39-AE40-CDEE5D4B22C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B745153B-D5C7-4D39-AE40-CDEE5D4B22C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B745153B-D5C7-4D39-AE40-CDEE5D4B22C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49B076D3-4D9D-481E-A19E-23DBC39685CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49B076D3-4D9D-481E-A19E-23DBC39685CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49B076D3-4D9D-481E-A19E-23DBC39685CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49B076D3-4D9D-481E-A19E-23DBC39685CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
